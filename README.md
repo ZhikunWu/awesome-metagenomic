@@ -1,3 +1,3 @@
 # awesome-metagenomic
-awesoem softwares, pipelines and resources for metagenomic
+awesome softwares, pipelines and resources for metagenomic
 
