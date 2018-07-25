@@ -1,19 +1,42 @@
 # Awesome-metagenomic
 awesome softwares, pipelines and resources for metagenomic
 
+## toolkits
+
+* [MOCAT2](http://vm-lux.embl.de/~kultima/MOCAT/): Process & analyze metagenomes
+
+
 
 ## Binning
 
 * [BinSanity](https://github.com/edgraham/BinSanity): Unsupervised Clustering of Environmental Microbial Assemblies Using Coverage and Affinity Propagation
-* [CONCOCT]()
-* [MetaBat]()
-* [MyCC]()
-* [MyCC]()
-* [GroopM]()
+* [CONCOCT](https://github.com/BinPro/CONCOCT): Clustering cONtigs with COverage and ComposiTion (https://concoct.readthedocs.org/)
+* [Assigning Whole Metagenome Taxonomy](https://www.protocols.io/view/Script-P7-Assigning-Whole-Metagenome-Taxonomy-egubbww)
+* [GroopM](https://github.com/Ecogenomics/GroopM): Metagenomic binning suite (https://ecogenomics.github.io/GroopM/)
+* [MyCC](http://sourceforge.net/projects/sb2nhri/files/MyCC/): Accurate binning of metagenomic contigs via automated clustering sequences using information of genomic signatures and marker genes (https://www.nature.com/articles/srep24175)
+* [MetaBat](https://bitbucket.org/berkeleylab/metabat): an efficient tool for accurately reconstructing single genomes from complex microbial communities
+
+
+
+## Taxonomy
+
+* [metametamerge](https://github.com/pirovc/metametamerge)
+* [MetaPalette](https://github.com/dkoslicki/MetaPalette): Metagenomic profiling and phylogenetic distances via common kmers (https://github.com/pirovc/metameta/)
+* [mOTU](http://www.bork.embl.de/software/mOTU/): Taxonomic profiling using mOTUs
+* [MetaMeta](https://gitlab.com/rki_bioinformatics): integrating metagenome analysis tools to improve taxonomic profiling (https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0318-y)
+* [kaiju](https://github.com/bioinformatics-centre/kaiju): Fast taxonomic classification of metagenomic sequencing reads using a protein reference database
+* [metaphlan2](https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2): a tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data.
+* [krakenhll](https://github.com/fbreitwieser/krakenhll): Metagenomics classifier with unique k-mer counting for more specific results
+* [Kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html): taxonomic sequence classification system
+* [MetaOthello](https://github.com/xa6xa6/metaOthello): A novel data structure to support ultra-fast taxonomic classification of metagenomic sequences with k-mer signatures
+* [k-SLAM](https://github.com/aindj/k-SLAM): accurate and ultra-fast taxonomic classification and gene identification for large metagenomic data sets 
 
 ## Visualization
 
 * [Anvi’o](): an advanced analysis and visualization platform for ‘omics data
+* [Pavian](https://github.com/fbreitwieser/pavian):  Interactive analysis of metagenomics data for microbiomics and pathogen identification
+
+
 
 ## Protocols
 
@@ -30,6 +53,9 @@ awesome softwares, pipelines and resources for metagenomic
 * [CRISPR Identification](https://www.protocols.io/view/Script-P10-CRISPR-Identification-ehdbb26)
 * [Functional Analysis](https://www.protocols.io/view/Script-P11-Functional-Analysis-ehubb6w)
 * [Antibiotic Resistance](https://www.protocols.io/view/Script-P12-Antibiotic-Resistance-ehwbb7e)
+* [An anvi'o tutorial using the Infant Gut Dataset](http://merenlab.org/tutorials/infant-gut/)
+
+
 
 
 ## Protocols for plotting
