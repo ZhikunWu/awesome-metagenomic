@@ -5,7 +5,9 @@ awesome softwares, pipelines and resources for metagenomic
 
 * [MOCAT2](http://vm-lux.embl.de/~kultima/MOCAT/): Process & analyze metagenomes
 
+## Database
 
+* [Resfams](http://www.dantaslab.org/resfams/): a curated database of protein families and associated profile hidden Markov models (HMMs), confirmed for antibiotic resistance function and organized by ontology.
 
 ## Binning
 
@@ -15,6 +17,9 @@ awesome softwares, pipelines and resources for metagenomic
 * [GroopM](https://github.com/Ecogenomics/GroopM): Metagenomic binning suite (https://ecogenomics.github.io/GroopM/)
 * [MyCC](http://sourceforge.net/projects/sb2nhri/files/MyCC/): Accurate binning of metagenomic contigs via automated clustering sequences using information of genomic signatures and marker genes (https://www.nature.com/articles/srep24175)
 * [MetaBat](https://bitbucket.org/berkeleylab/metabat): an efficient tool for accurately reconstructing single genomes from complex microbial communities
+* [MaxBin2](https://sourceforge.net/projects/maxbin2/): an automated binning algorithm to recover genomes from multiple metagenomic datasets (https://academic.oup.com/bioinformatics/article/32/4/605/1744462)
+* [DAS Tool](https://github.com/cmks/DAS_Tool): automated method that integrates the results of a flexible number of binning algorithms to calculate an optimized, non-redundant set of bins from a single assembly
+* [COCACOLA](https://github.com/younglululu/COCACOLA): binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge
 
 
 
@@ -25,16 +30,28 @@ awesome softwares, pipelines and resources for metagenomic
 * [mOTU](http://www.bork.embl.de/software/mOTU/): Taxonomic profiling using mOTUs
 * [MetaMeta](https://gitlab.com/rki_bioinformatics): integrating metagenome analysis tools to improve taxonomic profiling (https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0318-y)
 * [kaiju](https://github.com/bioinformatics-centre/kaiju): Fast taxonomic classification of metagenomic sequencing reads using a protein reference database
+* [LMAT](http://sourceforge.net/projects/lmat): Scalable metagenomic taxonomy classification using a reference genome database (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753567/)
+* [Clark](http://clark.cs.ucr.edu/Overview/): Fast, accurate and versatile sequence classification system
 * [metaphlan2](https://bitbucket.org/biobakery/biobakery/wiki/metaphlan2): a tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data.
 * [krakenhll](https://github.com/fbreitwieser/krakenhll): Metagenomics classifier with unique k-mer counting for more specific results
 * [Kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html): taxonomic sequence classification system
 * [MetaOthello](https://github.com/xa6xa6/metaOthello): A novel data structure to support ultra-fast taxonomic classification of metagenomic sequences with k-mer signatures
 * [k-SLAM](https://github.com/aindj/k-SLAM): accurate and ultra-fast taxonomic classification and gene identification for large metagenomic data sets 
+* [Phylosift](https://phylosift.wordpress.com): mining the global metagenome
+
+
+
 
 ## Visualization
 
 * [Anvi’o](): an advanced analysis and visualization platform for ‘omics data
 * [Pavian](https://github.com/fbreitwieser/pavian):  Interactive analysis of metagenomics data for microbiomics and pathogen identification
+
+
+## Function
+
+* [STAMP](http://kiwi.cs.dal.ca/Software/STAMP) : oftware package for analyzing taxonomic or metabolic profiles that promotes ‘best practices’ in choosing appropriate statistical techniques and reporting results. 
+
 
 
 
@@ -79,4 +96,7 @@ awesome softwares, pipelines and resources for metagenomic
 
 
 
+## Websites
+
+* [TARA OCEANS](http://ocean-microbiome.embl.de/companion.html): Structure and function of the global ocean microbiome
 
