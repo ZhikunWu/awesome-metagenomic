@@ -1,0 +1,30 @@
+IN_PATH: /home/wzk/Project/Leptosphaeria
+
+PIPE_DIR: /home/wzk/github/Bacteria_denovo/pipeline
+
+THREADS: 10
+ThreadFold: 4
+
+### NanoFilt
+minLength: 500
+minQuality: 10
+headcrop: 30
+
+### NanoPlot
+maxLength: 40000
+NanoPlots: "hex dot"
+
+### RepeatMasker
+species: "bactra testudinea"
+
+### LTRFinder
+LTRFinderFormat: 2
+
+### TandemRepeatFinder
+TandemRepeat: "2 7 7 80 10 50 2000"
+
+SAMPLES:
+  - ERR2259150
+
+PROJECTS:
+  - ERR2259150
