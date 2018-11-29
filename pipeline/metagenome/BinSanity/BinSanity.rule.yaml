@@ -1,0 +1,14 @@
+IN_PATH: /home/wzk/Project/BinSanity
+THREADS: 10
+ADAPTER: /home/Adapters/DNA.fa
+
+trimmomatic: /home/wzk/anaconda3/envs/qiime/bin/trimmomatic-0.36.jar
+fastqc: /home/wzk/anaconda3/envs/qiime/bin/FastQC/fastqc
+PICARD: /home/wzk/anaconda3/envs/evolution/bin/picard-2.8.2.jar
+
+SAMPLES:
+  - SRR492065
+  - SRR492066
+
+PROJECTS:
+  - binsanity
