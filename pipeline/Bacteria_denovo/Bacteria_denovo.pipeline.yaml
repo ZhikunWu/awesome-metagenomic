@@ -1,6 +1,9 @@
-IN_PATH: /home/wzk/Project/Leptosphaeria
+IN_PATH: /home/wzk/Project/Other/Leptosphaeria
 
-PIPE_DIR: /home/wzk/github/Bacteria_denovo/pipeline
+PIPE_DIR: /home/wzk/github/awesome-metagenomic/pipeline/Bacteria_denovo
+
+
+LTR_retriever: /home/wzk/anaconda3/envs/evolution/bin/LTR_retriever
 
 THREADS: 10
 ThreadFold: 4
